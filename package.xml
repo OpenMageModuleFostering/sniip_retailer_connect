@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package>
+    <name>Sniip_Retailer_Connect</name>
+    <version>1.0.9.8.1</version>
+    <stability>stable</stability>
+    <license uri="http://opensource.org/licenses/osl-3.0.php">Open Source Licence (OSL)</license>
+    <channel>community</channel>
+    <extends/>
+    <summary>This module allows you to sync your Magento Retail store to the Sniip marketplace, allowing shoppers to browse and shop on your store within a native app experience.</summary>
+    <description>Sniip brings together a variety of retail shopping brands and service providers under one easy to use app.  You can shop across the entire Sniip community of retailers, pay your bills and even pay your parking, on your mobile, 24/7.</description>
+    <notes>This module allows you to sync your Magento Retail store to the Sniip marketplace, allowing shoppers to browse and shop on your store within a native app experience.</notes>
+    <authors><author><name>Cliff Viegas</name><user>CLIFF</user><email>cliff.viegas@sniip.com</email></author></authors>
+    <date>2015-10-14</date>
+    <time>05:49:25</time>
+    <contents><target name="mageetc"><dir name="modules"><file name="Sniip_Sniipsync.xml" hash="d38cd3dae11b1bd18271a73174300e7c"/></dir></target><target name="magecommunity"><dir name="Sniip"><dir name="Sniipsync"><dir name="Helper"><file name="Data.php" hash="0192bd72a9dc1e1b5f65669271c5b472"/></dir><dir name="Model"><dir name="Api"><file name="Resource.php" hash="e97f33392c0b248741b22801e08e53cd"/></dir><file name="Sniipgateway.php" hash="808dc1c7c56b56d7e315a66af6a59216"/><dir name="Sniipsync"><dir name="Api"><file name="V2.php" hash="4fb5c03ef6bca75467a38c270387070b"/></dir><file name="Api.php" hash="8ae85db9fc329d50fcf0115930b20172"/></dir></dir><dir name="etc"><file name="api.xml" hash="765f6e98de535b8cc10d5590f9e95343"/><file name="config.xml" hash="6cb0337251113a3348ee7fb57c014268"/><file name="system.xml" hash="65f1d0112c041c4bca882a0032f787b1"/><file name="wsdl.xml" hash="f3237d52103615aa4c1e5ebee71c9fc3"/><file name="wsi.xml" hash="2a5be8042a92c7acfead8ec18b8045f0"/></dir><dir name="sql"><dir name="sniipsync_setup"><file name="install-1.0.0.php" hash="564104566af5cb8cf1d0914accdfc7cc"/></dir></dir></dir></dir></target></contents>
+    <compatible/>
+    <dependencies><required><php><min>5.1.0</min><max>6.0.0</max></php></required></dependencies>
+</package>
