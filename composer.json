@@ -1,7 +1,7 @@
 {
-    "name": "OpenMageModuleFostering\/Sniip_Retailer_Connect",
+    "name": "openmage-module-fostering\/sniip_retailer_connect",
     "type": "magento-module",
-    "license": "Open-Source-Licence-(OSL)",
+    "license": "OSL-3.0",
     "homepage": "",
     "description": "This module allows you to sync your Magento Retail store to the Sniip marketplace, allowing shoppers to browse and shop on your store within a native app experience.",
     "authors": [

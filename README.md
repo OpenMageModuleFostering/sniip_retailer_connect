@@ -1,3 +1,5 @@
+
+
 ## Original Package Description
 
 This module allows you to sync your Magento Retail store to the Sniip marketplace, allowing shoppers to browse and shop on your store within a native app experience.
